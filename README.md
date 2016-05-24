@@ -1,1 +1,1 @@
-# test
+Initial examination question answer
